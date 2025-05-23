@@ -1,7 +1,18 @@
-👋 Hi there!
+# 👋 Hi there!
 
-🎓 I'm a third-year Computer Science student from Kraków, Poland. I'm passionate about programming and constantly expanding my skills in various technologies.
-🔧 Technologies and tools I use:
+I'm **Milosz**, a third-year **Computer Science student** from Kraków, Poland.  
+I'm passionate about programming and continuously expanding my skills across various technologies.
+
+---
+
+## 🚧 Currently Working On
+
+**`urlesson`** – a web platform designed to connect **students** and **tutors** for private lessons.  
+Built with **Django**, **Tailwind CSS**, and other modern tools.
+
+---
+
+## 🔧 Technologies & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -15,9 +26,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-🚧 Currently working on: `urlesson` – a platform to connect students and tutors.
+## 📫 Contact
 
-📫 How to reach me?
-
-     miloszjasica1@gmail.com
+📧 **Email:** miloszjasica1@gmail.com
