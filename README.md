@@ -1,17 +1,5 @@
 # 👋 Hi there!
 
-I'm **Milosz**, a third-year **Computer Science student** from Kraków, Poland.  
-I'm passionate about programming and continuously expanding my skills across various technologies.
-
----
-
-## 🚧 Currently Working On
-
-**`urlesson`** – a web platform designed to connect **students** and **tutors** for private lessons.  
-Built with **Django**, **Tailwind CSS**, and other modern tools.
-
----
-
 ## 🔧 Technologies & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
